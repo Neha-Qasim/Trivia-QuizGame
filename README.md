@@ -40,6 +40,8 @@ ll in a sleek dark-themed UI.
 - Feedback based on performance
 - Option to **play again**
 
+  ![image alt](https://github.com/Neha-Qasim/Trivia-QuizGame/blob/07b73102eb0eb42c479005992038fda69266d5db/Screenshot%202025-07-22%20123701.png)
+
 ---
 
 ## 🎨 UI & Design
