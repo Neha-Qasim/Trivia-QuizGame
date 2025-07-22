@@ -13,6 +13,7 @@ ll in a sleek dark-themed UI.
 - Enter your **name** and **age**
 - Choose your desired **quiz category**
 - Get a **personalized welcome** with motivational quotes
+  
   ![image alt](https://github.com/Neha-Qasim/Trivia-QuizGame/blob/3a84c1c0d934f4557915ca34cc02a94f7b9d8564/Screenshot%202025-07-22%20123621.png)
   
 
@@ -74,4 +75,6 @@ ll in a sleek dark-themed UI.
 │   └── Questions.kt
 └── theme/
     └── Theme.kt
+![image alt](https://github.com/Neha-Qasim/Trivia-QuizGame/blob/3a84c1c0d934f4557915ca34cc02a94f7b9d8564/Screenshot%202025-07-22%20123621.png)![image alt](https://github.com/Neha-Qasim/Trivia-QuizGame/blob/3a84c1c0d934f4557915ca34cc02a94f7b9d8564/Screenshot%202025-07-22%20123621.png)
+
 
