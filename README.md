@@ -33,6 +33,8 @@ ll in a sleek dark-themed UI.
 - **Auto-skip** when time runs out
 - **Real-time score tracking**
 
+  ![image alt](https://github.com/Neha-Qasim/Trivia-QuizGame/blob/efff267c34047b9ca0991142e249d2c979510815/Screenshot%202025-07-22%20123637.png)
+
 ### 🧾 Result Summary
 - Final score display
 - Feedback based on performance
