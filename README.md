@@ -16,7 +16,6 @@ ll in a sleek dark-themed UI.
   
   ![image alt](https://github.com/Neha-Qasim/Trivia-QuizGame/blob/3a84c1c0d934f4557915ca34cc02a94f7b9d8564/Screenshot%202025-07-22%20123621.png)
   
-
 ###  Smart Questioning
 - **Age-based difficulty levels**
   - Ages 3–8
